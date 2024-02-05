@@ -2,8 +2,6 @@
 moc_*
 Makefile
 Linux-*
-*.dll
-*.exe
 *.filters
 *.ipch
 *.opensdf
